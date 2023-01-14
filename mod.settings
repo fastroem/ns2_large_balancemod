@@ -1,0 +1,11 @@
+name        = "Alnair's balance"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[Alnair's balance mod for ns2 large.
+
+Improved skulk health, armor and speed
+Improved cyst handling]=]
+image       = "preview.jpg"
+tag_modtype = ""
+tag_support = ""
+publish_id = 2908953776

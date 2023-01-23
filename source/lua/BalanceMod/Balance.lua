@@ -1,3 +1,3 @@
 kCystBuildTime = 1.665
-kFadeCost = 39
-kOnosCost = 61
+kFadeCost = 37
+kOnosCost = 58
